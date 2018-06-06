@@ -1,8 +1,7 @@
 ---
+title: Formatting Samples
+date: 2015-05-25 00:00:00 Z
 layout: post
-title: "Formatting Samples"
-date: 2015-05-25
-categories:
 ---
 
 Arctic Fox supports GFM!

@@ -1,8 +1,9 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
+
 *Arctic Fox* is a lightweight and customisable Jekyll Theme.
 
 * Author: Camille Diez
